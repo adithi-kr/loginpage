@@ -5,6 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  cursor: url('catcursor.png'),pointer;
 }
 
 .container {
@@ -37,7 +38,7 @@ button {
 
 button:hover {
   background: #2112cf;
-  cursor: url('belugacat.png'),pointer;
+  cursor: url('open.png'),pointer;
 }
 
 a {
