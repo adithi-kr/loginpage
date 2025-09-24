@@ -1,0 +1,47 @@
+body {
+  font-family: 'Comic Sans MS', sans-serif;
+  background: #d0d5f2;   /* light pink background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: rgb(243, 242, 251);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 300px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #132875;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2112cf;
+}
+
+a {
+  display: block;
+  margin-top: 10px;
+  color: #4368fc;
+  text-decoration: none;
+}
