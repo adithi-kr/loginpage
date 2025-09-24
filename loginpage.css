@@ -32,11 +32,12 @@ button {
   border-radius: 8px;
   color: white;
   font-size: 16px;
-  cursor: url('belugacat.png'),pointer;
+  cursor: pointer;
 }
 
 button:hover {
   background: #2112cf;
+  cursor: url('belugacat.png'),pointer;
 }
 
 a {
