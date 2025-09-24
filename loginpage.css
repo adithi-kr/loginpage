@@ -37,6 +37,7 @@ button {
 
 button:hover {
   background: #2112cf;
+  cursor: url('belugacat.png),pointer;
 }
 
 a {
